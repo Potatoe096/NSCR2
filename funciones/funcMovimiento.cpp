@@ -1,3 +1,5 @@
+//Archivo con las funciones de movimiento
+
 // Estructura para agrupar los pines de un driver BTS7960
 struct DriverBTS {
   int rPwmPin; // Giro Derecha / Avanzar (PWM)

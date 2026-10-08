@@ -1,4 +1,4 @@
-// Archivo de cabecera 
+// Archivo de cabecera de funciones de movimiento
 
 #include "funcMovimiento.cpp"
 
