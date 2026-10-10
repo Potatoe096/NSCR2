@@ -26,7 +26,9 @@ Hacer un commit
 Subir los commits hechos a un repositorio
 
     git push
-    git push --set-upstream origin master //especifica la branch
+    git push --set-upstream origin master //Comienza a trackear una rama
+    or 
+    gir push -u origin <nombre de la rama>
 
 Dejar de trackear archivos
     git rm -r --cached nombre del archivo
